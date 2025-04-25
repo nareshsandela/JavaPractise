@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b99b8bff-98e5-4e88-b52e-308d3ad97b31" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Collections/Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collections/out/production/Collections/Collections/Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Data Structures &amp; Algorithms/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Data Structures &amp; Algorithms/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Data Structures &amp; Algorithms/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Data Structures &amp; Algorithms/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Data Structures &amp; Algorithms/src/main/java/org/example/String/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Data Structures &amp; Algorithms/src/main/java/org/example/String/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Data Structures &amp; Algorithms/src/main/java/org/example/String/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Data Structures &amp; Algorithms/src/main/java/org/example/String/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Data Structures &amp; Algorithms/src/main/java/org/example/String/CommonChrectersThreeStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Data Structures &amp; Algorithms/src/main/java/org/example/String/SingletonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Data Structures &amp; Algorithms/src/main/java/org/example/String/StringAndStringPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Java8/Java8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Java8/out/production/Java8/com/Java8/Java8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Java8/streams/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Java8/streams/StreamsEmployeeInterviewQuestions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Java8/streams/out/production/streams/com/Java8/streams/streams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Java8/streams/streams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Java8features/.idea/Java8features.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/04-spring-boot-rest-crud/.idea/04-spring-boot-rest-crud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - Lazy Initialisation/.idea/springcoredemo - constructor injection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - Lazy Initialisation/.idea/springcoredemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - Primary/.idea/springcoredemo - constructor injection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - Primary/.idea/springcoredemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - Qualifier/.idea/springcoredemo - constructor injection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - Qualifier/.idea/springcoredemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - Qualifiers/.idea/springcoredemo - constructor injection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - Qualifiers/.idea/springcoredemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - Setter Injection/.idea/springcoredemo - constructor injection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - Setter Injection/.idea/springcoredemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - Spring Cache Abstraction/.idea/springcoredemo - constructor injection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - Spring Cache Abstraction/.idea/springcoredemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - bean life cycle methods/.idea/springcoredemo - constructor injection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - bean life cycle methods/.idea/springcoredemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - bean scopes/.idea/springcoredemo - constructor injection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - bean scopes/.idea/springcoredemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - component scanning/.idea/springcoredemo - constructor injection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - component scanning/.idea/springcoredemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - constructor injection/.idea/springcoredemo - constructor injection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - constructor injection/.idea/springcoredemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - java config bean/.idea/springcoredemo - constructor injection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo - java config bean/.idea/springcoredemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java code/Springboot/Spring-core-demo/springcoredemo/.idea/springcoredemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/Array/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/Array/MissingManyNumbersInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/Array/MissingNumberInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/Array/MissingNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/Array/SwapNumbersWithoutVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/String/Anagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/String/CountCharacterFrequencyInString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/String/CountOfRepeatedWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/String/CountWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/String/CountWordsInSentence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/String/DupicateElementsInList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/String/DuplicateCharactersInString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/String/FirstNonRepeatingCharInString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/String/LongestWordInSentence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/String/MostFrequentWordInSentence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/String/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/String/RemoveDupicatesFromList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/String/ReverseEachWordInSentence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures &amp; Algorithms/src/main/java/org/example/String/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/BiPredicateBiFunctionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/ConsumerChaining.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/ConsumerDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/DefaultMethodDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/DefaultMethodDiamondProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/DiamondProblemClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/DiamondProblemInterface1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/DiamondProblemInterface2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/FunctionChaining.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/FunctionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/ImmutableClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/InterfaceDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/InterfaceDemoImpl1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/InterfaceDemoImpl2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/InterfaceDemoImpl3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/InterfaceWithStaticMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/InterfaceWithStaticMethodImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/Java8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/OptionalDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/PredicateDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/PredicateJoining.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/StartsWithEndsWith.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/StreamAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/StreamAPIDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/SupplierDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/BiPredicateBiFunctionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/ConsumerChaining.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/ConsumerDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/DefaultMethodDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/DefaultMethodDiamondProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/DiamondProblemClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/DiamondProblemInterface1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/DiamondProblemInterface2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/FunctionChaining.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/FunctionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/ImmutableClass$Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/ImmutableClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/InterfaceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/InterfaceDemoImpl1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/InterfaceDemoImpl2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/InterfaceDemoImpl3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/InterfaceWithStaticMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/InterfaceWithStaticMethodImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/Java8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/OptionalDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/PredicateDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/PredicateJoining.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/StartsWithEndsWith.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/StreamAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/StreamAPIDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/SupplierDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/AnyMatchExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/CollectExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/ConvertToStreams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/CountExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/CountOccurences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/DistinctExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/FilterExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/FindFirstExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/FlatMapExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/GroupingByExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/LimitExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/ListToSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/LongestWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/MapExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/MinMaxExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/ParallelStreams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/PeekExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/ReduceExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/SkipExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/SortedExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/out/production/Java8/com/Java8/streams/SumExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/AnyMatchExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/CollectExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/ConvertToStreams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/CountExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/CountOccurences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/DistinctExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/FilterExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/FindFirstExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/FlatMapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/GroupingByExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/LimitExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/ListToSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/LongestWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/MapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/MinMaxExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/ParallelStreams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/PeekExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/ReduceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/SkipExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/SortedExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8/streams/SumExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/Collections/ArrayDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/Collections/ArrayListDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/Collections/ComparableDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/Collections/ComparableTelusko.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/Collections/ComparatorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/Collections/ComparatorObjectTelusko.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/Collections/ComparatorTelusko.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/Collections/ForEachDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/Collections/HashMapDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/Collections/HashSetDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/Collections/LinkedListDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/Collections/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/Collections/ThreadCreationDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/Collections/ThreadDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/Collections/UserDefinedHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/StringDSAInterview/ImmutableClassDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/StringDSAInterview/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/StringDSAInterview/Vowels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java8features/Java8new/src/main/java/StringDSAInterview/WordCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-spring-boot-hibernate-jpa-crud/00-starter-sql-scripts/00-starter-sql-scripts/01-create-user.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-spring-boot-hibernate-jpa-crud/00-starter-sql-scripts/00-starter-sql-scripts/02-student-tracker.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-spring-boot-hibernate-jpa-crud/00-starter-sql-scripts/__MACOSX/00-starter-sql-scripts/._01-create-user.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-spring-boot-hibernate-jpa-crud/00-starter-sql-scripts/__MACOSX/00-starter-sql-scripts/._02-student-tracker.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-spring-boot-hibernate-jpa-crud/JAVA8/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-spring-boot-hibernate-jpa-crud/JAVA8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-spring-boot-hibernate-jpa-crud/JAVA8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-spring-boot-hibernate-jpa-crud/JAVA8/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-spring-boot-hibernate-jpa-crud/JAVA8/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/04-spring-boot-rest-crud.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-rest-crud/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-rest-crud/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-rest-crud/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-rest-crud/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-rest-crud/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-rest-crud/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-rest-crud/src/main/java/com/nareshsandela/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-rest-crud/src/main/java/com/nareshsandela/demo/entity/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-rest-crud/src/main/java/com/nareshsandela/demo/rest/DemoRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-rest-crud/src/main/java/com/nareshsandela/demo/rest/StudentErrorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-rest-crud/src/main/java/com/nareshsandela/demo/rest/StudentNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-rest-crud/src/main/java/com/nareshsandela/demo/rest/StudentRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-rest-crud/src/main/java/com/nareshsandela/demo/rest/StudentRestExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-rest-crud/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-spring-boot-rest-crud/src/test/java/com/nareshsandela/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-spring-boot-rest-crud-employee/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-spring-boot-rest-crud-employee/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-spring-boot-rest-crud-employee/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-spring-boot-rest-crud-employee/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-spring-boot-rest-crud-employee/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-spring-boot-rest-crud-employee/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-spring-boot-rest-crud-employee/src/main/java/com/nareshsandela/springboot/cruddemo/CruddemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-spring-boot-rest-crud-employee/src/main/java/com/nareshsandela/springboot/cruddemo/dao/EmployeeDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-spring-boot-rest-crud-employee/src/main/java/com/nareshsandela/springboot/cruddemo/dao/EmployeeDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-spring-boot-rest-crud-employee/src/main/java/com/nareshsandela/springboot/cruddemo/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-spring-boot-rest-crud-employee/src/main/java/com/nareshsandela/springboot/cruddemo/rest/EmployeeRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-spring-boot-rest-crud-employee/src/main/java/com/nareshsandela/springboot/cruddemo/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-spring-boot-rest-crud-employee/src/main/java/com/nareshsandela/springboot/cruddemo/service/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-spring-boot-rest-crud-employee/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-spring-boot-rest-crud-employee/src/test/java/com/nareshsandela/springboot/cruddemo/CruddemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-employee-sql-script/employee-directory.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/.idea/springcoredemo - constructor injection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/.idea/springcoredemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/springcoredemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/springcoredemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/springcoredemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/springcoredemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/springcoredemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/springcoredemo/src/main/java/com/spring/framework/springcoredemo/SpringcoredemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/BaseballCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/TennisCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/TrackCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/springcoredemo/src/main/java/com/spring/framework/springcoredemo/rest/DemoRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/springcoredemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Lazy Initialisation/springcoredemo/src/test/java/com/spring/framework/springcoredemo/SpringcoredemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/.idea/springcoredemo - constructor injection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/.idea/springcoredemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/springcoredemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/springcoredemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/springcoredemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/springcoredemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/springcoredemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/springcoredemo/src/main/java/com/spring/framework/springcoredemo/SpringcoredemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/BaseballCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/TennisCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/TrackCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/springcoredemo/src/main/java/com/spring/framework/springcoredemo/rest/DemoRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/springcoredemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Primary/springcoredemo/src/test/java/com/spring/framework/springcoredemo/SpringcoredemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/.idea/springcoredemo - constructor injection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/.idea/springcoredemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/springcoredemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/springcoredemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/springcoredemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/springcoredemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/springcoredemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/springcoredemo/src/main/java/com/spring/framework/springcoredemo/BaseballCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/springcoredemo/src/main/java/com/spring/framework/springcoredemo/SpringcoredemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/TennisCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/springcoredemo/src/main/java/com/spring/framework/springcoredemo/rest/DemoRestContoller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/springcoredemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifier/springcoredemo/src/test/java/com/spring/framework/springcoredemo/SpringcoredemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/.idea/springcoredemo - constructor injection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/.idea/springcoredemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/springcoredemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/springcoredemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/springcoredemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/springcoredemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/springcoredemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/springcoredemo/src/main/java/com/spring/framework/springcoredemo/SpringcoredemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/BaseballCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/TennisCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/TrackCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/springcoredemo/src/main/java/com/spring/framework/springcoredemo/rest/DemoRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/springcoredemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Qualifiers/springcoredemo/src/test/java/com/spring/framework/springcoredemo/SpringcoredemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/.idea/springcoredemo - constructor injection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/.idea/springcoredemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/springcoredemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/springcoredemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/springcoredemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/springcoredemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/springcoredemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/springcoredemo/src/main/java/com/spring/framework/springcoredemo/SpringcoredemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/springcoredemo/src/main/java/com/spring/framework/springcoredemo/rest/DemoRestContoller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/springcoredemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Setter Injection/springcoredemo/src/test/java/com/spring/framework/springcoredemo/SpringcoredemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/.idea/springcoredemo - constructor injection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/.idea/springcoredemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/springcoredemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/springcoredemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/springcoredemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/springcoredemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/springcoredemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/springcoredemo/src/main/java/com/spring/framework/springcoredemo/CacheConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/springcoredemo/src/main/java/com/spring/framework/springcoredemo/SpringCachingDemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/springcoredemo/src/main/java/com/spring/framework/springcoredemo/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/springcoredemo/src/main/java/com/spring/framework/springcoredemo/rest/DemoRestContoller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/springcoredemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - Spring Cache Abstraction/springcoredemo/src/test/java/com/spring/framework/springcoredemo/SpringCachingDemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/.idea/springcoredemo - constructor injection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/.idea/springcoredemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/springcoredemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/springcoredemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/springcoredemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/springcoredemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/springcoredemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/springcoredemo/src/main/java/com/spring/framework/springcoredemo/SpringcoredemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/BaseballCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/TennisCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/TrackCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/springcoredemo/src/main/java/com/spring/framework/springcoredemo/rest/DemoRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/springcoredemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean life cycle methods/springcoredemo/src/test/java/com/spring/framework/springcoredemo/SpringcoredemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/.idea/springcoredemo - constructor injection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/.idea/springcoredemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/springcoredemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/springcoredemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/springcoredemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/springcoredemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/springcoredemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/springcoredemo/src/main/java/com/spring/framework/springcoredemo/SpringcoredemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/BaseballCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/TennisCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/TrackCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/springcoredemo/src/main/java/com/spring/framework/springcoredemo/rest/DemoRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/springcoredemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - bean scopes/springcoredemo/src/test/java/com/spring/framework/springcoredemo/SpringcoredemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/.idea/springcoredemo - constructor injection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/.idea/springcoredemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/springcoredemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/springcoredemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/springcoredemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/springcoredemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/springcoredemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/springcoredemo/src/main/java/com/outside/nonsubpackage/common/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/springcoredemo/src/main/java/com/outside/nonsubpackage/common/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/springcoredemo/src/main/java/com/spring/framework/springcoredemo/SpringcoredemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/springcoredemo/src/main/java/com/spring/framework/springcoredemo/rest/DemoRestContoller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/springcoredemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - component scanning/springcoredemo/src/test/java/com/spring/framework/springcoredemo/SpringcoredemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/.idea/springcoredemo - constructor injection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/.idea/springcoredemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/springcoredemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/springcoredemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/springcoredemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/springcoredemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/springcoredemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/springcoredemo/src/main/java/com/spring/framework/springcoredemo/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/springcoredemo/src/main/java/com/spring/framework/springcoredemo/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/springcoredemo/src/main/java/com/spring/framework/springcoredemo/DemoRestContoller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/springcoredemo/src/main/java/com/spring/framework/springcoredemo/SpringcoredemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/springcoredemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - constructor injection/springcoredemo/src/test/java/com/spring/framework/springcoredemo/SpringcoredemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/.idea/springcoredemo - constructor injection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/.idea/springcoredemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/springcoredemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/springcoredemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/springcoredemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/springcoredemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/springcoredemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/springcoredemo/src/main/java/com/spring/framework/springcoredemo/SpringcoredemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/BaseballCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/SwimCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/TennisCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/springcoredemo/src/main/java/com/spring/framework/springcoredemo/common/TrackCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/springcoredemo/src/main/java/com/spring/framework/springcoredemo/config/SportConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/springcoredemo/src/main/java/com/spring/framework/springcoredemo/rest/DemoRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/springcoredemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo - java config bean/springcoredemo/src/test/java/com/spring/framework/springcoredemo/SpringcoredemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo/.idea/springcoredemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo/springcoredemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo/springcoredemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo/springcoredemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo/springcoredemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo/springcoredemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo/springcoredemo/src/main/java/com/spring/framework/springcoredemo/SpringcoredemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo/springcoredemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-core-demo/springcoredemo/springcoredemo/src/test/java/com/spring/framework/springcoredemo/SpringcoredemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springboot-Pagenatipn/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springboot-Pagenatipn/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springboot-Pagenatipn/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springboot-Pagenatipn/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springboot-Pagenatipn/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springboot-Pagenatipn/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Springboot-Pagenatipn/src/main/java/org/example/entity/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator-security/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator-security/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator-security/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator-security/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator-security/mycoolapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator-security/mycoolapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator-security/mycoolapp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator-security/mycoolapp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator-security/mycoolapp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator-security/mycoolapp/src/main/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator-security/mycoolapp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator-security/mycoolapp/src/test/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator-security/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator-security/src/main/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator-security/src/main/java/com/luv2code/spring/demo/mycoolapp/rest/RestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator-security/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator-security/src/test/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator/mycoolapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator/mycoolapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator/mycoolapp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator/mycoolapp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator/mycoolapp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator/mycoolapp/src/main/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator/mycoolapp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator/mycoolapp/src/test/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator/src/main/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator/src/main/java/com/luv2code/spring/demo/mycoolapp/rest/RestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - actuator/src/test/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - custom-properties/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - custom-properties/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - custom-properties/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - custom-properties/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - custom-properties/mycoolapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - custom-properties/mycoolapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - custom-properties/mycoolapp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - custom-properties/mycoolapp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - custom-properties/mycoolapp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - custom-properties/mycoolapp/src/main/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - custom-properties/mycoolapp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - custom-properties/mycoolapp/src/test/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - custom-properties/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - custom-properties/src/main/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - custom-properties/src/main/java/com/luv2code/spring/demo/mycoolapp/rest/RestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - custom-properties/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - custom-properties/src/test/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - devtools/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - devtools/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - devtools/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - devtools/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - devtools/mycoolapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - devtools/mycoolapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - devtools/mycoolapp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - devtools/mycoolapp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - devtools/mycoolapp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - devtools/mycoolapp/src/main/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - devtools/mycoolapp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - devtools/mycoolapp/src/test/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - devtools/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - devtools/src/main/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - devtools/src/main/java/com/luv2code/spring/demo/mycoolapp/rest/RestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - devtools/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp - devtools/src/test/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp/mycoolapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp/mycoolapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp/mycoolapp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp/mycoolapp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp/mycoolapp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp/mycoolapp/src/main/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp/mycoolapp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp/mycoolapp/src/test/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp/src/main/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp/src/main/java/com/luv2code/spring/demo/mycoolapp/rest/RestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mycoolapp/src/test/java/com/luv2code/spring/demo/mycoolapp/MycoolappApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-hibernate-jpa-crud/01-cruddemo-student/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-hibernate-jpa-crud/01-cruddemo-student/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nareshsandela"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nareshsandela/Java8.git",
+    "accountId": "18f59a41-10d7-4486-b9a9-1d2811b5a068"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2vjdyOoR8KJftsmwG211jACk09H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nareshs/Documents/Springboot/04-spring-boot-rest-crud",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b99b8bff-98e5-4e88-b52e-308d3ad97b31" name="Changes" comment="" />
+      <created>1744662670582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744662670582</updated>
+    </task>
+    <servers />
+  </component>
+</project>
